@@ -99,7 +99,7 @@ author:
   name             : "Rotaract Club Kassel"
   avatar           : /assets/images/rac-logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lernen. Helfen. Feiern."
-  location         : "Kassel"
+  location         :
   email            :
   uri              : kassel.rotaract.de
   home             : # null (default), "absolute or relative url to link to author home"
