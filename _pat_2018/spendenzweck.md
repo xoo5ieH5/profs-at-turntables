@@ -1,4 +1,9 @@
 ---
+author:
+    name: Kleine Riesen Nordhessen e.V.
+    avatar: /assets/images/kleine-riesen-logo.png
+    uri: https://www.kleine-riesen-nordhessen.de/
+    location: Kassel
 ---
 Die Einnahmen durch den Eintrittspreis gehen zu 100% an „*[Kleine Riesen Nordhessen e.V.](https://www.kleine-riesen-nordhessen.de/)*“
 
