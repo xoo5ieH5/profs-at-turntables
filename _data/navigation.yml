@@ -1,0 +1,9 @@
+main:
+    - title: Spendenzweck
+      url: /pat_2018/spendenzweck
+    - title: Location
+      url: /pat_2018/location
+    - title: Line-up
+      url: /pat_2018/line-up
+    - title: Impressum
+      url: /impressum
