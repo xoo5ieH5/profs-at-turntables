@@ -4,6 +4,8 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Verantwortlich für den Inhalt der Seite
+Angaben gemäß § 5 TMG:
 
-Irgendjemand vermutlich
+Rotaract Club Kassel  
+co. Götz Thilo Müller von der Grün  
+Rasenallee 40a, 34128 Kassel

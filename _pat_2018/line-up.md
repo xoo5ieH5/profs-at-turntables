@@ -1,7 +1,13 @@
 ---
 title: Line-up
 ---
-| Uhrzeit        | Professor                                       |
-|----------------+-------------------------------------------------|
-| 22:00          | Dr. Goodvibes                                   |
-| 23:00          | Dr. Dre                                         |
+| Professor                                       | Fachgebiet   |
+|-------------------------------------------------+--------------|
+| Prof. Bischoff                                   | VWL         |
+| Prof. Meister                                    | Mathematik  |
+| Prof. Ricoeur                                    | Mechanik    |
+| Prof. Baumann                                    | Neue Medien |
+| Dr. Schindler                                    | Psychologie |
+| Prof. Möller                                     | Psychologie |
+| Prof. Witthaus                                   | Romanistik  |
+| Prof. Mann                                       | BWL         |
