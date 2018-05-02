@@ -5,7 +5,7 @@ author:
     uri: https://www.kleine-riesen-nordhessen.de/
     location: Kassel
 ---
-Die Einnahmen durch den Eintrittspreis gehen zu 100% an das „*KinderPalliativ Team [Kleine Riesen Nordhessen](https://www.kleine-riesen-nordhessen.de/)*“
+Die Einnahmen durch den Eintrittspreis gehen zu 100% an das „*[KinderPalliativ Team Kleine Riesen Nordhessen](https://www.kleine-riesen-nordhessen.de/)*“
 
 Wenn ein Kind schwer krank ist und die Familie damit rechnen muss, dass die gemeinsame Zeit nur noch begrenzt ist, gerät die Welt aus den Fugen. Die drastische Veränderung des gewohnten, liebgewordenen Alltags, der akute Ausnahmezustand sowie Angst und Verzweiflung erfassen die gesamte Familie und fordern von allen viel Kraft.
 
