@@ -1,7 +1,7 @@
 ---
 ---
 
-Gefeiert wird im [York](http://york-kassel.de/) an der Kreuzung am Rathaus. Einlass ab 22:00 Uhr.
+Gefeiert wird im [York](http://york-kassel.de/) an der Kreuzung am Rathaus. Einlass ist ab 22:00 Uhr.
 
 <iframe
     width="100%"
