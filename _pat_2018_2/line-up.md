@@ -1,5 +1,8 @@
 ---
 title: Line-up Oktober 2018
+layout: archive
+classes: wide
+author_profile: true
 ---
 | Professor                                       | Fachbereich  |
 |-------------------------------------------------+--------------|
